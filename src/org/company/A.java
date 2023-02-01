@@ -1,7 +1,8 @@
 package org.company;
 
 public class A extends B {
-	public A() {		
+	public A() {
+		
 		System.out.println("Default constructor");
 	}
 	
